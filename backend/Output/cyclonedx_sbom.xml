@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bom xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1" xmlns="http://cyclonedx.org/schema/bom/1.4">
+  <components>
+    <component type="library">
+      <name>2490Gcrc.exe</name>
+    </component>
+    <component type="library">
+      <name>CPP0.EXE</name>
+    </component>
+    <component type="library">
+      <name>GMAKE.EXE</name>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL56.DLL</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERL560.EXE</name>
+      <cpe>cpe:2.3:a:activestate:activeperl:*:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>PERLB.EXE</name>
+    </component>
+    <component type="library">
+      <name>TISYM.EXE</name>
+    </component>
+    <component type="library">
+      <name>WinCRC.exe</name>
+    </component>
+    <component type="library">
+      <name>cygwin1.dll</name>
+      <cpe>cpe:2.3:a:redhat:cygwin:1.3.12:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>cygwin1.dll</name>
+      <cpe>cpe:2.3:a:redhat:cygwin:1.3.12:*:*:*:*:*:*:*</cpe>
+    </component>
+    <component type="library">
+      <name>gzip.exe</name>
+    </component>
+    <component type="library">
+      <name>pdd2cspy.exe</name>
+    </component>
+    <component type="library">
+      <name>pdd2cspy.exe</name>
+    </component>
+    <component type="library">
+      <name>tisym55.exe</name>
+    </component>
+  </components>
+</bom>
